@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://raw.githubusercontent.com/yuyamakiyama/yuyamakiyama/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/yuyamakiyama/yuyamakiyama/output/github-contribution-grid-snake-dark.svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuyamakiyama&theme=gruvbox)
 
