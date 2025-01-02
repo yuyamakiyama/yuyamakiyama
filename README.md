@@ -2,7 +2,7 @@
 
 - 😎  &nbsp;Japanese Software Engineer and Full-Stack Developer based in Toronto 🇨🇦 🇯🇵
 
-- ❤️  &nbsp;Typescript &nbsp; / &nbsp; React &nbsp; / &nbsp; NestJS &nbsp; / &nbsp; Python &nbsp; / &nbsp; Go &nbsp; / &nbsp; GraphQL &nbsp; / &nbsp; GCP &nbsp; / &nbsp; Azure
+- ❤️  &nbsp;Typescript, React, NestJS, Python, Go, GraphQL, GCP, Azure, etc...
 
 ---
 
