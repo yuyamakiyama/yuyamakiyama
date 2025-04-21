@@ -1,5 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
 
+<!--
 - 😎  &nbsp;Japanese Software Engineer and Full-Stack Developer based in Toronto 🇨🇦 🇯🇵
 
 - ❤️  &nbsp;Typescript, React, NestJS, Python, Go, GraphQL, GCP, Azure, etc...
@@ -17,8 +18,3 @@
 ---
 
 ![](https://raw.githubusercontent.com/yuyamakiyama/yuyamakiyama/output/github-contribution-grid-snake-dark.svg)
-
-
-
-
-
