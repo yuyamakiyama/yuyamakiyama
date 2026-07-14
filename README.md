@@ -1,20 +1,7 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
+<div align="center">
+  <img width="640" height="640" alt="lumi" src="https://github.com/user-attachments/assets/e05a2204-1981-4176-b34b-79bb0dcc8dfa" />
+</div>
 
-<!--
-- 😎  &nbsp;Japanese Software Engineer and Full-Stack Developer based in Toronto 🇨🇦 🇯🇵
-
-- ❤️  &nbsp;Typescript, React, NestJS, Python, Go, GraphQL, GCP, Azure, etc...
-
----
-
-![](https://raw.githubusercontent.com/yuyamakiyama/yuyamakiyama/main/profile-summary-card-output/calm/0-profile-details.svg)
-
-![](https://raw.githubusercontent.com/yuyamakiyama/yuyamakiyama/main/profile-summary-card-output/calm/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/yuyamakiyama/yuyamakiyama/main/profile-summary-card-output/calm/3-stats.svg)
-![](https://raw.githubusercontent.com/yuyamakiyama/yuyamakiyama/main/profile-summary-card-output/calm/4-productive-time.svg)
-
-![](https://github-profile-trophy.vercel.app/?username=yuyamakiyama&theme=onedark&title=-Reviews,-Followers,-Stars,-Repositories)
-
----
-
-![](https://raw.githubusercontent.com/yuyamakiyama/yuyamakiyama/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yuyamakiyama/yuyamakiyama/output/github-contribution-grid-snake-dark.svg" />
+</div>
